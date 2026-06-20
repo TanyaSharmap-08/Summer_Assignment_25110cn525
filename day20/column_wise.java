@@ -17,7 +17,7 @@ public class column_wise
                 a[i][j]=sc.nextInt();
             }
         }
-        System.out.println("Row-wise sum : ");
+        System.out.println("Column-wise sum : ");
         for(j=0;j<n;j++)
         {
             int column_sum=0;
